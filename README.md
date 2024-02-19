@@ -1,5 +1,5 @@
 # RAG-with-Gemini-Pro
-Chat com perguntas e respostas para os seus dados usando Google Gemini-Pro e Geração Aumentada por Recuperação (RAG)
+Chat com perguntas e respostas para os seus dados usando Google Gemini-Pro e Geração Aumentada por Recuperação (RAG)\
 Questions and answers with your data using Google Gemini-Pro and Retrieval Augmented Generation (RAG)
 ![Captura de Tela 2024-02-19 às 11 43 49](https://github.com/dimasjackson/RAG-with-Gemini-Pro/assets/114688989/5d9907dc-6d9d-4314-b89c-3a528e891cf7)
 
